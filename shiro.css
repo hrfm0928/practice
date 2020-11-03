@@ -1,4 +1,7 @@
-.main {
-    background-image: url("https://daikishirakawa.github.io/image.png");
-    opacity: 0.8;
+body {
+    background-color: gold;
+}
+
+p {
+    color: white;
 }
